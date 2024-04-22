@@ -1,5 +1,7 @@
 # Chartjs
-simple chartjs example
+simple chartjs example ( <a href="https://arminmehraeen.github.io/Chartjs/">Live Preview</a> )
+
+
 
 <br/>
 <div class="center">
